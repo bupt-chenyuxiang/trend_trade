@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: buhuiba
+Build-Jdk: 15.0.2
+Implementation-Title: third-part-index-data-project
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: cn.how2j.trend
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/trendParentProject/third-part-index-data-project
+Created-By: Maven Integration for Eclipse
+
